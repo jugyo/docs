@@ -1,3 +1,5 @@
+// これは [Backbone.js](http://documentcloud.github.com/backbone/) の [サンプルアプリ の annotated source](http://documentcloud.github.com/backbone/docs/todos.html) を日本語化したものです。
+
 // [Jérôme Gravel-Niquet](http://jgn.me/) による Backbone アプリケーションのサンプル。
 // このデモはブラウザに Backbone モデルを永続化するためにシンプルな [LocalStorage adapter](backbone-localstorage.html) を使用しています。
 
